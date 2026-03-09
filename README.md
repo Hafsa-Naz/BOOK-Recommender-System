@@ -115,4 +115,4 @@ BS Artificial Intelligence Student
 Dawood University of Engineering & Technology  
 
 🔗 LinkedIn  
-https://www.linkedin.com/in/hafsa-naz
+https://www.linkedin.com/in/hafsa-naz-
