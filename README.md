@@ -109,10 +109,7 @@ recommend("The Notebook")
 ---
 
 ## Author
-
-**Hafsa Naz**  
-BS Artificial Intelligence Student  
-Dawood University of Engineering & Technology  
+Hafsa Naz – BS Artificial Intelligence Student Dawood University of Engineering & Technology
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/hafsa-naz-
